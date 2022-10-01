@@ -20,9 +20,9 @@ I used a handful of sources for compiling this list. In each notebook, I include
 - [Udemy Course by Jose Portilla (Pierian Data)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp)
 - [Udemy Course by Ligency](https://www.udemy.com/course/machinelearning)
 
-## To do:
-
-- Create more notebook tutorials: Random Forests, Perceptrons
+## Todo
+- Create more notebook tutorials: Random Forest, Perceptron
+- Add another binary classification dataset to test all approaches on (maybe the Titanic one)
 - Discuss strengths and weaknesses of each approach
 - Tutorial on data preparation, data cleaning, and feature engineering
 - Tutorial on performance metrics
