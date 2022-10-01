@@ -14,7 +14,7 @@ Notebooks:
 
 I used a handful of sources for compiling this list. In each notebook, I include the specific sources, but in general the most useful resources for me were as follows:
 - [Machine Learning Mastery](https://machinelearningmastery.com/) by Jason Brownlee - This site includes many ML implementations from scratch with detailed descriptions. In many cases, the code in my notebooks directly copies the code from this site.
-- [StatQuest](https://statquest.org/ with Josh Starmer - Josh makes very fun and approachable videos for understanding statistics and machine learning concepts
+- [StatQuest](https://statquest.org/) by Josh Starmer - Josh makes very fun and approachable videos for understanding statistics and machine learning concepts
 - AI: A modern Approach by Norvig and Russell - A standard AI textbook
 - Machine Learning by Peter Flach - More in-depth discussion of ML algorithms
 - [Udemy Course by Jose Portilla (Pierian Data)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp)
